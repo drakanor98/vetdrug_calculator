@@ -1,0 +1,90 @@
+{
+  "Amoxicillin": { 
+    "reaction": "Nausea, diarrhea, allergic reactions",
+    "doseRate": 15 
+  },
+  "Amoxicillin + Clavulanic acid": {
+     "reaction": "Nausea, diarrhea, allergic reactions", 
+     "doseRate": 12.5 
+  },
+  "Cefalexin": { 
+    "reaction": "Nausea, diarrhea, allergic reactions", 
+    "doseRate": 20 
+  },
+  "Cefixime": { 
+    "reaction": "Nausea, diarrhea, allergic reactions", 
+    "doseRate": 20 
+  },
+  "Cefotaxime": { 
+    "reaction": "Nausea, diarrhea, allergic reactions", 
+    "doseRate": 20 
+  },
+  "Ceftriaxone": { 
+    "reaction": "Nausea, diarrhea, allergic reactions", 
+    "doseRate": 20 
+  },
+  "Cefuroxime": { 
+    "reaction": "Nausea, diarrhea, allergic reactions", 
+    "doseRate": 20 
+  },
+  "Ciprofloxacin": { 
+    "reaction": "Nausea, diarrhea, allergic reactions", 
+    "doseRate": 10 
+  },
+  "Doxycycline": { 
+    "reaction": "Nausea, Photosensitivity reaction, esophageal strictures(cats), lethargy", 
+    "doseRate": 10 
+  },
+  "Enrofloxacin": { 
+    "reaction": "Nausea, Cartilage abnormalities, Ataxia", 
+    "doseRate": 5 
+  },
+  "Fenbendazole": { 
+    "reaction": "Vomiting, diarrhea, hypersalivation", 
+    "doseRate": 50 
+  },
+  "Ivermectin": { 
+    "reaction": "Neurological effects, especially in collies", 
+    "doseRate": 0.2 
+  },
+  "Ketoprofen": { 
+    "reaction": "Gastrointestinal upset, kidney damage", 
+    "doseRate": 2 
+  },
+  "Levamisole": { 
+    "reaction": "Vomiting, diarrhea, hypersalivation", 
+    "doseRate": 10 
+  },
+  "Metronidazole": { 
+    "reaction": "Vomiting, diarrhea, neurologic disorder, hypersalivation", 
+    "doseRate": 20 
+  },
+  "Meloxicam": { 
+    "reaction": "Gastrointestinal upset, kidney damage", 
+    "doseRate": 0.2 
+  },
+  "Oxytetracycline  L.A": { 
+    "reaction": "Bone and teeth discoloration in young, Nausea, Local tissue reaction on IM administration", 
+    "doseRate": 20 
+  },
+  "Oxytetracycline  S.A": { 
+    "reaction": "Bone and teeth discoloration in young, Nausea, Local tissue reaction on IM administration", 
+    "doseRate": 5 
+  },
+  "Praziquantel": { 
+    "reaction": "Vomiting, diarrhea, hypersalivation", 
+    "doseRate": 5 
+  },
+  "Sulfadimethoxine": { 
+    "reaction": "Vomiting, bone marrow depression, tissue necrosis at injection site, keratoconjuctivitis sicca", 
+    "doseRate": 25 
+  },
+  "Prednisolone": { 
+    "reaction": "Increased thirst, urination, weight gain", 
+    "doseRate": 1 
+  },
+  "Pyrantel": { 
+    "reaction": "Vomiting, diarrhea, hypersalivation", 
+    "doseRate": 20 
+  }
+}
