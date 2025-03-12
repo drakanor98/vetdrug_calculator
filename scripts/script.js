@@ -1,7 +1,7 @@
 let drugData = {};
 
 // Fetch drug data from drugs.json
-fetch('/scripts/drug.json')
+fetch('scripts/drug.json')
     .then(response => response.json())
     .then(data => {
         drugData = data;
